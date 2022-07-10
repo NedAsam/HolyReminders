@@ -1,4 +1,4 @@
-/* Data for OpusDei_WNY  home page*/
+/* Data for OpusDei_WNY  home page -- first commit*/
 
 class Location  {
     Constructor(id, name, addr){
