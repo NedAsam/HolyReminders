@@ -1,0 +1,237 @@
+/*Universal Styles*/
+
+body {
+    font-size: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 960px;
+    background-color: beige;
+   
+}
+
+   
+   /*
+    @media only screen and (min-width: 961px)  {
+        h1 {font-size: 1.8rem}
+        h2 {font-size: 1.6rem}
+        h3 {font-size: 1.4rem;
+            margin-top: 5px;}
+        p  {font-size: 1.2rem}
+        li {font-size: 1.2rem}        
+        .content-list li{margin-bottom: 10px }
+        .banner-text {width:60%}
+        .banner-img {width:40%}
+    }
+    */
+        
+    @media only screen and (min-width: 1101px)  {
+        h1 {font-size: 1.4rem}
+        h2 {font-size: 1.2rem}
+        h3 {font-size: 1.0rem;
+            margin-top: 30px;}
+        p  {font-size: 0.8rem}
+        li {font-size: 0.8rem}  
+        .content-list{
+            list-style: none;
+            margin-left: 20px;
+            margin-right: 20px;
+        }  
+        .content-subList{
+            list-style: none;
+            margin-left: 40px;
+            margin-right: 20px;
+        }  
+        .footNote li{
+            font-size: 0.6rem;
+            font-family:Arial, Helvetica, sans-serif;
+        }     
+        .content-list li{margin-bottom: 8px }
+        .banner-text {width:60%}
+        .banner-img {width:40%}
+        .imgRef {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: .3rem;
+            margin-top: 0px;
+        }
+    }
+    
+    @media only screen and (min-width: 721px) and (max-width: 1100px) {
+        h1 {font-size: 1.4rem}
+        h2 {font-size: 1.2rem}
+        h3 {font-size: 1.0rem;
+            margin-top: 5px;}
+        p  {font-size: 0.8rem}
+        li {font-size: 0.8rem}  
+        .content-list{
+            list-style: none;
+            margin-left: 20px;
+            margin-right: 20px;
+        }  
+        .content-subList{
+            list-style: none;
+            margin-left: 40px;
+            margin-right: 20px;
+        }  
+        .footNote li{
+            font-size: 0.6rem;
+            font-family:Arial, Helvetica, sans-serif;
+        }     
+        .content-list li{margin-bottom: 8px }
+        .banner-text {width:60%}
+        .banner-img {width:40%}
+        .imgRef {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: .3rem;
+            margin-top: 0px;
+        }
+        
+    }
+    @media only screen and (min-width: 461px) and (max-width: 720px) {
+        h1 {font-size: 1.2rem}
+        h2 {font-size: 1.0rem}
+        h3 {font-size: 0.8rem;
+            margin-top: 5px;}
+        p  {font-size: 0.7rem}
+        li {font-size: 0.7rem}
+        .content-list{
+            list-style: none;
+            margin-left: 15px;
+            margin-right: 15px;
+        }   
+        .content-subList{
+            list-style: none;
+            margin-left: 30px;
+            margin-right: 20px;
+        }
+        .footNote li{
+            font-size: 0.3rem;
+            font-family:Arial, Helvetica, sans-serif;
+        }      
+        
+        .content-list li{margin-bottom: 6px }
+        .banner-text {width:60%}
+        .banner-img {width:40%}
+        .imgRef {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: .3rem;
+            margin-top: 0px;
+        }
+    }
+
+    @media only screen and (max-width: 460px) {
+        h1 {font-size: 1.3rem}
+        h2 {font-size: 1.1rem}
+        h3 {font-size: 0.7rem;
+            margin-top: 5px;}
+        p  {font-size: 0.6rem}
+        li {font-size: 0.6rem}
+        .content-list{
+            list-style: none;
+            margin-left: 5px;
+            margin-right: 5px;
+        }   
+        .content-subList{
+            list-style: none;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .footNote li{
+            font-size: .3rem;
+            font-family:Arial, Helvetica, sans-serif;
+        }     
+        .content-list li{margin-bottom: 6px }
+        .banner {flex-wrap: wrap;}
+        .banner-text {width:100%}
+        .banner-img {width:100%}
+        .imgRef {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: .3rem;
+        }
+        
+
+    }
+
+
+nav{
+    height:30px;
+    background-color:bisque;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding-top: 5px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+nav a:hover, 
+nav a.active {
+    color: blue;
+}
+
+.footNote{
+    list-style: none;
+}
+
+
+
+.logo {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+.banner {
+display: flex;
+flex-direction:row;
+max-width: 100%;
+background-color:beige;
+
+}
+.banner-img{
+    margin-left: 5px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    
+}
+
+.banner-img img {
+    max-width: 100%;
+}
+
+.banner-text{
+    display: flex;
+    align-items:flex-start;
+    flex-direction: column;
+    margin-top: 0px;
+    margin-right:24px;
+    
+}
+
+
+
+.banner h3 {
+    font-family:cursive;
+    margin-bottom: 10px;
+}
+
+.banner-text p {
+    margin-top: 0px;
+}
+
+
+
+
+.content-subList{
+list-style: none;
+
+}
+
+
+
+
+
+
+
