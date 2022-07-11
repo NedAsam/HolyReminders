@@ -27,19 +27,24 @@ body {
         h1 {font-size: 1.4rem}
         h2 {font-size: 1.2rem}
         h3 {font-size: 1.0rem;
-            margin-top: 30px;}
+            margin-top: 10px;}
         p  {font-size: 0.8rem}
         li {font-size: 0.8rem}  
+
         .content-list{
             list-style: none;
             margin-left: 20px;
             margin-right: 20px;
-        }  
+        }
         .content-subList{
             list-style: none;
             margin-left: 40px;
             margin-right: 20px;
-        }  
+        } 
+
+        .banner-textList p{
+            font-size: 1.8rem;
+        }
         .footNote li{
             font-size: 0.6rem;
             font-family:Arial, Helvetica, sans-serif;
@@ -47,6 +52,7 @@ body {
         .content-list li{margin-bottom: 8px }
         .banner-text {width:60%}
         .banner-img {width:40%}
+        .banner-textList{width: 60%}
         .imgRef {
             font-family: Arial, Helvetica, sans-serif;
             font-size: .3rem;
@@ -54,10 +60,10 @@ body {
         }
     }
     
-    @media only screen and (min-width: 721px) and (max-width: 1100px) {
+    @media only screen and (min-width: 681px) and (max-width: 1100px) {
         h1 {font-size: 1.4rem}
         h2 {font-size: 1.2rem}
-        h3 {font-size: 1.0rem;
+        h3 {font-size: 0.8rem;
             margin-top: 5px;}
         p  {font-size: 0.8rem}
         li {font-size: 0.8rem}  
@@ -71,6 +77,12 @@ body {
             margin-left: 40px;
             margin-right: 20px;
         }  
+        
+
+        .banner-textList p{
+            font-size: 1.6rem;
+        } 
+
         .footNote li{
             font-size: 0.6rem;
             font-family:Arial, Helvetica, sans-serif;
@@ -78,6 +90,7 @@ body {
         .content-list li{margin-bottom: 8px }
         .banner-text {width:60%}
         .banner-img {width:40%}
+        .banner-textList{width: 60%}
         .imgRef {
             font-family: Arial, Helvetica, sans-serif;
             font-size: .3rem;
@@ -85,7 +98,7 @@ body {
         }
         
     }
-    @media only screen and (min-width: 461px) and (max-width: 720px) {
+    @media only screen and (min-width: 641px) and (max-width: 680px) {
         h1 {font-size: 1.2rem}
         h2 {font-size: 1.0rem}
         h3 {font-size: 0.8rem;
@@ -102,6 +115,12 @@ body {
             margin-left: 30px;
             margin-right: 20px;
         }
+
+        
+        .banner-textList p{
+            font-size: 1.4rem;
+        } 
+
         .footNote li{
             font-size: 0.3rem;
             font-family:Arial, Helvetica, sans-serif;
@@ -110,6 +129,7 @@ body {
         .content-list li{margin-bottom: 6px }
         .banner-text {width:60%}
         .banner-img {width:40%}
+        .banner-textList{width: 60%}
         .imgRef {
             font-family: Arial, Helvetica, sans-serif;
             font-size: .3rem;
@@ -117,7 +137,7 @@ body {
         }
     }
 
-    @media only screen and (max-width: 460px) {
+    @media only screen and (max-width: 640px) {
         h1 {font-size: 1.3rem}
         h2 {font-size: 1.1rem}
         h3 {font-size: 0.7rem;
@@ -142,6 +162,7 @@ body {
         .banner {flex-wrap: wrap;}
         .banner-text {width:100%}
         .banner-img {width:100%}
+        .banner-textList{width: 100%}
         .imgRef {
             font-family: Arial, Helvetica, sans-serif;
             font-size: .3rem;
@@ -207,26 +228,48 @@ background-color:beige;
     flex-direction: column;
     margin-top: 0px;
     margin-right:24px;
+    justify-content: center;
     
-}
-
-
-
-.banner h3 {
-    font-family:cursive;
-    margin-bottom: 10px;
 }
 
 .banner-text p {
     margin-top: 0px;
+    align-self: center;
 }
 
+
+
+.banner h2 {
+    font-family:cursive;
+    margin-bottom: 10px;
+    align-self: center;
+}
+
+.banner-textList{
+    display: flex;
+    
+    flex-direction: column;
+    justify-content:center;
+}
+.banner-textList p {
+    align-self: center;
+    font-family:cursive;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+    
+}
 
 
 
 .content-subList{
 list-style: none;
 
+}
+
+.footNoteRef {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .2rem;
 }
 
 

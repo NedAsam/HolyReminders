@@ -1,15 +1,18 @@
-console.log ("Hello World from the main module");
+console.log ("Hello World from the circle module");
 
-import  {heading01, content00, introduction, introSub, footNotes} from "./data00.js";
-import  {DisplayLi, DisplayStr} from "./classDisplay.js";
+import  {heading01, footNotes} from "../dataModules/data01.js";
+import  {DisplayLi, DisplayParaList } from "./classDisplay.js";
+
+console.log(heading01)
 
 
 
 
-const displayHead00 = new DisplayStr ('head00', heading01);
-displayHead00.displayString();
+const displayBannerList = new DisplayParaList ('banner-paraList', heading01);
+displayBannerList.displayList();
 
-const displayCont00 = new DisplayStr ('cont00', content00);
+/*
+const displayCont00 = new DisplayStr ('cont01', content01);
 displayCont00.displayString();
 
 const introContent = new DisplayLi('intro-list', introduction);
@@ -17,7 +20,7 @@ introContent.displayList();
 
 const introSubContent = new DisplayLi('intro-subList', introSub);
 introSubContent.displayList();
+*/
 
-
-const displayNotes = new DisplayLi( 'footNote00', footNotes);
+const displayNotes = new DisplayLi( 'footNote01', footNotes);
 displayNotes.displayList();
