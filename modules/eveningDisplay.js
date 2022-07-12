@@ -8,7 +8,7 @@ console.log(heading02)
 
 
 
-const displayBannerList = new DisplayParaList ('banner-paraList', heading02);
+const displayBannerList = new DisplayParaList ('banner-paraList', heading02, 'h2');
 displayBannerList.displayList();
 
 /*
@@ -22,5 +22,5 @@ const introSubContent = new DisplayLi('intro-subList', introSub);
 introSubContent.displayList();
 */
 
-const displayNotes = new DisplayLi( 'footNote02', footNotes);
+const displayNotes = new DisplayLi( 'footNote02', footNotes,'li');
 displayNotes.displayList();

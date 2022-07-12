@@ -5,18 +5,18 @@ import  {DisplayLi, DisplayStr} from "./classDisplay.js";
 
 
 
-const displayHead00 = new DisplayStr ('head00', heading00);
+const displayHead00 = new DisplayStr ('head00', heading00, 'p');
 displayHead00.displayString();
 
-const displayCont00 = new DisplayStr ('cont00', content00);
+const displayCont00 = new DisplayStr ('cont00', content00, 'p');
 displayCont00.displayString();
 
-const introContent = new DisplayLi('intro-list', introduction);
+const introContent = new DisplayLi('intro-list', introduction, 'li');
 introContent.displayList();
 
-const introSubContent = new DisplayLi('intro-subList', introSub);
+const introSubContent = new DisplayLi('intro-subList', introSub, 'p');
 introSubContent.displayList();
 
 
-const displayNotes = new DisplayLi( 'footNote00', footNotes);
+const displayNotes = new DisplayLi( 'footNote00', footNotes, 'li');
 displayNotes.displayList();

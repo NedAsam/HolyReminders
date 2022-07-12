@@ -6,8 +6,9 @@ console.log("here is a test");
 
 /* Banner on home page - 00 */
 const heading02 = [
-    `THIS IS MY SON`,
-    `LISTEN TO HIM`    
+    `THIS IS MY SON,`,
+    `MY CHOSEN;`,
+    `LISTEN TO HIM <span class="footNoteRef">[2]</span>`  
  ]
  
 
@@ -16,8 +17,7 @@ const heading02 = [
 /* foot notes */
 const footNotes = [
     `[1] Raphael, "The Transfiguration" -- Public domain, via Wikimedia Commons`,
-
-    `[2] another reference`
+    `[2] Luke 9:35, Word on Fire Bible, Vol 1 -- Public domain, via Wikimedia Commons`
    
 ]
 
