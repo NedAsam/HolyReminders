@@ -6,10 +6,10 @@ console.log("here is a test");
 
 /* Banner on home page - 00 */
 const heading02 = [
-    `AND HE SAID`,
-    `TO HIM,`,
-    `"FOLLOW ME" <span class="footNoteRef">[2]</span>`
+    `THIS IS MY SON`,
+    `LISTEN TO HIM`    
  ]
+ 
 
 
 
