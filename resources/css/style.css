@@ -262,7 +262,9 @@ background-color:beige;
     
 }
 
-
+.quoteFormat {
+    font-style: oblique;
+}
 
 .content-subList{
 list-style: none;
