@@ -1,14 +1,14 @@
 console.log ("Hello World from the circle module");
 
 import  {heading02, footNotes} from "../dataModules/data02.js";
-import  {DisplayLi, DisplayParaList, DisplayStr } from "./classDisplay.js";
+import  {DisplayList, DisplayStr } from "./classDisplay.js";
 
 console.log(heading02)
 
 
 
 
-const displayBannerList = new DisplayParaList ('banner-paraList', heading02, 'h2');
+const displayBannerList = new DisplayList ('banner-paraList', heading02, 'h2');
 displayBannerList.displayList();
 
 /*
@@ -22,5 +22,5 @@ const introSubContent = new DisplayLi('intro-subList', introSub);
 introSubContent.displayList();
 */
 
-const displayNotes = new DisplayLi( 'footNote02', footNotes,'li');
+const displayNotes = new DisplayList( 'footNote02', footNotes,'li');
 displayNotes.displayList();
