@@ -3,9 +3,7 @@ console.log ("Hello World from the circle module");
 import  {heading01, footNotes} from "../dataModules/data01.js";
 import  {DisplayStr, DisplayList } from "./classDisplay.js";
 
-console.log(heading01)
-
-
+console.log(heading01);
 
 
 const displayBannerList = new DisplayList ('banner-paraList', heading01, 'h2');

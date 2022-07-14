@@ -1,4 +1,4 @@
-console.log ("Hello World from the circle module");
+console.log ("Hello World from the evening module");
 
 import  {heading02, footNotes} from "../dataModules/data02.js";
 import  {DisplayList, DisplayStr } from "./classDisplay.js";

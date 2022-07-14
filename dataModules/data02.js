@@ -10,6 +10,8 @@ const heading02 = [
     `MY CHOSEN;`,
     `LISTEN TO HIM <span class="footNoteRef">[2]</span>`  
  ]
+
+
  
 
 
