@@ -50,9 +50,9 @@ body {
             font-family:Arial, Helvetica, sans-serif;
         }     
         .content-list li{margin-bottom: 8px }
-        .banner-text {width:60%}
-        .banner-img {width:40%}
-        .banner-textList{width: 60%}
+        .banner-text {width:40%}
+        .banner-img {width:60%}
+        .banner-textList{width: 80%}
         .imgRef {
             font-family: Arial, Helvetica, sans-serif;
             font-size: .3rem;
@@ -60,7 +60,7 @@ body {
         }
     }
     
-    @media only screen and (min-width: 601px) and (max-width: 800px) {
+    @media only screen and (min-width: 701px) and (max-width: 800px) {
         h1 {font-size: 1.4rem}
         h2 {font-size: 1.2rem}
         h3 {font-size: 0.8rem;
@@ -88,9 +88,9 @@ body {
             font-family:Arial, Helvetica, sans-serif;
         }     
         .content-list li{margin-bottom: 8px }
-        .banner-text {width:60%}
-        .banner-img {width:40%}
-        .banner-textList{width: 60%}
+        .banner-text {width:40%}
+        .banner-img {width:60%}
+        .banner-textList{width: 80%}
         .imgRef {
             font-family: Arial, Helvetica, sans-serif;
             font-size: .6rem;
@@ -98,53 +98,15 @@ body {
         }
         
     }
-  /*
-    @media only screen and (min-width: 551x) and (max-width: 750px) {
-        h1 {font-size: 1.2rem}
-        h2 {font-size: 1.0rem}
-        h3 {font-size: 0.8rem;
-            margin-top: 5px;}
-        p  {font-size: 0.7rem}
-        li {font-size: 0.7rem}
-        .content-list{
-            list-style: none;
-            margin-left: 15px;
-            margin-right: 15px;
-        }   
-        .content-subList{
-            list-style: none;
-            margin-left: 30px;
-            margin-right: 20px;
-        }
-
-        
-        .banner-textList p{
-            font-size: 1.4rem;
-        } 
-
-        .footNote li{
-            font-size: 0.3rem;
-            font-family:Arial, Helvetica, sans-serif;
-        }      
-        
-        .content-list li{margin-bottom: 6px }
-        .banner-text {width:60%}
-        .banner-img {width:40%}
-        .banner-textList{width: 60%}
-        .imgRef {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: .3rem;
-            margin-top: 0px;
-        }
-    }
-*/
-    @media only screen and (max-width:600px) {
+  
+    
+    @media only screen and (max-width:700px) {
         h1 {font-size: 1.3rem}
         h2 {font-size: 1.1rem}
-        h3 {font-size: 0.7rem;
+        h3 {font-size: 0.9rem;
             margin-top: 5px;}
-        p  {font-size: 0.6rem}
-        li {font-size: .6rem}
+        p  {font-size: 0.8rem}
+        li {font-size: 0.8rem}
         .content-list{
             list-style: none;
             margin-left: 5px;
@@ -156,7 +118,7 @@ body {
             margin-right: 20px;
         }
         .footNote li{
-            font-size: .6rem;
+            font-size: .7rem;
             font-family:Arial, Helvetica, sans-serif;
         }
 

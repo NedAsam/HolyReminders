@@ -9,6 +9,8 @@ console.log(heading01);
 const displayBannerList = new DisplayList ('banner-paraList', heading01, 'h2');
 displayBannerList.displayList();
 
+
+
 /*
 const displayCont00 = new DisplayStr ('cont01', content01);
 displayCont00.displayString();
