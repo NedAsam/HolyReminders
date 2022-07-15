@@ -1,86 +1,18 @@
-/*Universal Styles*/
-
 body {
     font-size: 12px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    max-width: 1200px;
+    max-width: 1000px;
     background-color: beige;
    
 }
+h1 {font-size: 1.4rem}
+h2 {font-size: 1.2rem}
+h3 {font-size: 1.0rem;
+    margin-top: 10px;}
+p  {font-size: 0.9rem}
+li {font-size: .9rem} 
 
-        
-    @media only screen and (min-width: 801px)  {
-        h1 {font-size: 1.4rem}
-        h2 {font-size: 1.2rem}
-        h3 {font-size: 1.0rem;
-            margin-top: 10px;}
-        p  {font-size: 0.9rem}
-        li {font-size: 0.9rem}  
 
-        .content-list{
-            list-style: none;
-            margin-left: 20px;
-            margin-right: 20px;
-        }
-        .content-subList{
-            list-style: none;
-            margin-left: 40px;
-            margin-right: 20px;
-        } 
-
-        .banner-textList p{
-            font-size: 1.8rem;
-        }
-        .footNote li{
-            font-size: 0.6rem;
-            font-family:Arial, Helvetica, sans-serif;
-        }     
-        .content-list li{margin-bottom: 8px }
-        .banner-text {width:50%}
-        .banner-img {width:50%}
-        .banner-textList{width: 90%}
-        .imgRef {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: .3rem;
-            margin-top: 0px;
-        }
-    }
-   
-    
-    @media only screen and (max-width:800px) {
-        h1 {font-size: 1.3rem}
-        h2 {font-size: 1.1rem}
-        h3 {font-size: 0.9rem;
-            margin-top: 5px;}
-        p  {font-size: 0.8rem}
-        li {font-size: 0.8rem}
-        .content-list{
-            list-style: none;
-            margin-left: 5px;
-            margin-right: 5px;
-        }   
-        .content-subList{
-            list-style: none;
-            margin-left: 20px;
-            margin-right: 20px;
-        }
-        .footNote li{
-            font-size: .7rem;
-            font-family:Arial, Helvetica, sans-serif;
-        }
-
-        .content-list li{margin-bottom: 6px }
-        .banner {flex-wrap: wrap;}
-        .banner-text {width:100%}
-        .banner-img {width:100%}
-        .banner-textList{width: 100%}
-        .imgRef {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: .3rem;
-        }
-        
-
-    }
 
 
 nav{
@@ -102,38 +34,71 @@ nav a:hover,
 nav a.active {
     color: blue;
 }
-
 .footNote{
     list-style: none;
 }
 
-
+.footNote li {
+    font-size: .6rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+       
 
 .logo {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
+
+}
+
+.content-list{
+    list-style: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.content-subList{
+    list-style: none;
+    margin-left: 40px;
+    margin-right: 20px;
+} 
+
+.quoteFormat {
+    font-style: oblique;
+}
+
+.content-subList{
+list-style: none;
+}
+    
+.content-list li{
+    margin-bottom: 8px 
+}
+
+.footNoteRef {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .2rem;
 }
 
 .banner {
-display: flex;
-flex-direction:row;
-max-width: 100%;
-background-color:beige;
+    display: flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
 
-}
+} 
+
 .banner-img{
+    width:40%;
     margin-left: 5px;
     margin-right: 20px;
     margin-top: 5px;
     margin-bottom: 0px;
     
-}
+} 
 
-.banner-img img {
-    max-width: 100%;
-}
+.banner-img img {max-width: 100%}
 
-.banner-text{
+.banner-text {
+    width:60%;
     display: flex;
     align-items:flex-start;
     flex-direction: column;
@@ -143,50 +108,25 @@ background-color:beige;
     
 }
 
+.banner-textList{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+
 .banner-text p {
     margin-top: 0px;
     align-self: center;
 }
 
 
+.imgRef {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .3rem;
+    margin-top: 0px;
+}
 
 .banner h2 {
     margin-bottom: 10px;
     align-self: center;
 }
-
-.banner-textList{
-    display: flex;
-    
-    flex-direction: column;
-    justify-content:center;
-}
-.banner-textList p {
-    align-self: center;
-    font-family:cursive;
-    font-weight: bold;
-    margin-bottom: 10px;
-
-    
-}
-
-.quoteFormat {
-    font-style: oblique;
-}
-
-.content-subList{
-list-style: none;
-
-}
-
-.footNoteRef {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: .2rem;
-}
-
-
-
-
-
-
-
