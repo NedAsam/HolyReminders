@@ -87,7 +87,7 @@ list-style: none;
 } 
 
 .banner-img{
-    width:40%;
+    width:50%;
     margin-left: 5px;
     margin-right: 20px;
     margin-top: 5px;
@@ -98,7 +98,7 @@ list-style: none;
 .banner-img img {max-width: 100%}
 
 .banner-text {
-    width:60%;
+    width:50%;
     display: flex;
     align-items:flex-start;
     flex-direction: column;

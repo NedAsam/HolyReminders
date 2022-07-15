@@ -11,12 +11,12 @@ const heading03 = [
     `Imaculate Heart of Mary`,
     `I offer you all my`,
     `prayers, works, joys and `,
-    `sufferings of this day..." <span class="footNoteRef">[2]</span>`  
+    `sufferings of this day..."<span class="footNoteRef">[2]</span>`  
  ]
 
  const content03a = [
     `A large copy of this beautiful picture depicting the "Coronation of the Virgin" (Velazquez) fills the wall beind the main alter in the Oratory at Arnold Hall conference and retreat center.`,
-    `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God. <span class="footNoteRef">[3]</span>"`,
+    `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God. <span class="footNoteRef">[3]"`,
     'OpusDei Dei retreats are available at many locations, including...'
 
  ]

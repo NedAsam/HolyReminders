@@ -8,7 +8,7 @@ console.log("here is a test");
 const heading01 = [
     `AND HE SAID`,
     `TO HIM,`,
-    `"FOLLOW ME" <span class="footNoteRef">[2]</span>`
+    `"FOLLOW ME" <span class="footNoteRef">[2]</soan>`
  ]
 
 
