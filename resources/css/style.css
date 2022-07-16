@@ -1,8 +1,5 @@
 body {
-    font-size: 12px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    max-width: 1000px;
-    background-color: beige;
+    background-color: beige    
    
 }
 h1 {font-size: 1.4rem}
@@ -12,7 +9,14 @@ h3 {font-size: 1.0rem;
 p  {font-size: 0.9rem}
 li {font-size: .9rem} 
 
-
+.content { 
+    max-width: 1000px; 
+    margin: auto;
+    padding: 10px;
+    font-size: 12px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+}
 
 
 nav{
@@ -95,7 +99,11 @@ list-style: none;
     
 } 
 
-.banner-img img {max-width: 100%}
+.banner-img img {
+    max-width: 100%
+    
+
+}
 
 .banner-text {
     width:50%;
