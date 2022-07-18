@@ -18,9 +18,9 @@ const content02 = [
 
 const content03 = [
     `However, "fighting the good fight" can seem rather daunting to most of us, much of the time. We may read the lives of the saints, yet, every day, we experience the pressures of every day life. We can be tempted to think that being "saintly" is only for those who live in convents or monastaries.`,
-    `St. Josemaria Escriva was clearly aware of this erronous mindset. Early on  in his priestly ministry St. Josemaria Escriva became convinced that God wanted him to help everyone to realize that we are all called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form the movement what has became know as Opus Dei -- i.e. the Work of God.`,
+    `St. Josemaria Escriva was clearly aware of this erronous mindset. Early on  in his priestly ministry St. Josemaria Escriva became convinced that God wanted him to help everyone to realize that we are all called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form Opus Dei -- i.e. the Work of God.`,
     `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the <a target="_blank" href="https://OpusDei.org">Opus Dei</a> website. This beautiful website comprises biographical information and videos of St. Josemaria Escriva, background information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`,
-    `Further, this introductory website is a resource for keeping keeping track of the local Opus Dei activities (follow navigation links -- embedded below or in the menu at the top of pages).`
+    `This introductory website is a resource for keeping keeping track of the local Opus Dei activities (follow navigation links -- embedded below or in the menu at the top of pages).`
 ]
 
 const introSub = [
