@@ -2,33 +2,24 @@
 
 /* Banner on home page - 00 */
 const heading00 = `"We are all called to be Saints!"`;
-const content00 = `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will." [2]`;
+const content00 = `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'" [2]`;
 
 /* Introduction and invitation  */
-const introduction = [
-    `Welcome and thank you for your interest in Opus Dei in Western NY.`,
-    `This joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In this life, we all have our crosses -- anxieties, fears, illnesses, disappointments, regrets, et. al.  Yet, in our hearts, at the end of our journey, we pray that we are able to echo St. Paul in declaring ...'`,
-    `<span class="inLineQuote">I have fought the good fight, I have finished the race, I have kept the faith. From now on there is reserved for me the crown of righteousness, which the Lord, the righteous judge, will give me on that Day, and not only to me but also to all who have loved his appearing." [3]</span>`,
-    `However, "fighting the good fight" can seem rather daunting to most of us, much of the time. We may read the lives of the saints, yet, every day, we experience the pressures of every day life. We can be tempted to think that being "saintly" is only for those who live in convents or monastaries.`,
-    `St. Josemaria Escriva was clearly aware of this erronous mindset. Early on  in his priestly ministry St. Josemaria Escriva became convinced that God wanted him to help everyone to realize that we are all called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form the movement what has became know as Opus Dei -- i.e. the Work of God.`,
-    `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the Opus Dei website. This beautiful website comprises biographical information and videos of St. Josemaria Escriva, background information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`,
-    `Further, this introductory website is a resource for keeping keeping track of the local Opus Dei activities (follow navigation links -- embedded below or in the menu at the top of pages).`
 
-]
 
 const content01 = [
-    `Welcome and thank you for your interest in Opus Dei in Western NY.`,
+    `Welcome and thank you for your interest in <a target="_blank" href="https://OpusDei.org">Opus Dei</a> in Western NY.`,
     `This joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In this life, we all have our crosses -- anxieties, fears, illnesses, disappointments, regrets, et. al.  Yet, in our hearts, at the end of our journey, we pray that we are able to echo St. Paul in declaring ...'`,
 ]
 
 const content02 = [
-    `"I have fought the good fight, I have finished the race, I have kept the faith. From now on there is reserved for me the crown of righteousness, which the Lord, the righteous judge, will give me on that Day, and not only to me but also to all who have loved his appearing." [3]`
+    `"I have fought the good fight, I have finished the race, I have kept the faith. From now on there is reserved for me the crown of righteousness, which the Lord, the righteous judge, will give me on that Day, and not only to me but also to all who have loved his appearing." <span class="footNoteRef">[3]</span>`
 ]
 
 const content03 = [
     `However, "fighting the good fight" can seem rather daunting to most of us, much of the time. We may read the lives of the saints, yet, every day, we experience the pressures of every day life. We can be tempted to think that being "saintly" is only for those who live in convents or monastaries.`,
     `St. Josemaria Escriva was clearly aware of this erronous mindset. Early on  in his priestly ministry St. Josemaria Escriva became convinced that God wanted him to help everyone to realize that we are all called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form the movement what has became know as Opus Dei -- i.e. the Work of God.`,
-    `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the Opus Dei website. This beautiful website comprises biographical information and videos of St. Josemaria Escriva, background information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`,
+    `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the <a target="_blank" href="https://OpusDei.org">Opus Dei</a> website. This beautiful website comprises biographical information and videos of St. Josemaria Escriva, background information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`,
     `Further, this introductory website is a resource for keeping keeping track of the local Opus Dei activities (follow navigation links -- embedded below or in the menu at the top of pages).`
 ]
 
@@ -46,8 +37,8 @@ const content04 = [
 
 /* foot notes */
 const footNotes = [
-    "[1] Thomas Cole, 'The Pilgrim of the Cross at the End of his Journey' -- public domain via Wikipedia commons",
-    "[2] Escrivá, Josemaría. Friends of God (Kindle Locations 330-333). Scepter Publishers. Kindle Edition.; and Eph 1:4-5",
+    "[1] Cole, Thomas, 'The Pilgrim of the Cross at the End of his Journey', public domain via Wikipedia commons",
+    "[2] Escrivá, Josemaría. 'Friends of God' (Kindle Locations 330-333). Scepter Publishers. Kindle Edition.; and Eph 1:4-5",
     "[3] 2 Timothy 4:6-8: The Word-on-Fire Bible, vol 2"
    
 ]
@@ -56,8 +47,6 @@ const footNotes = [
 export {
     heading00, 
     content00, 
-    introduction, 
-    introSub, 
     content01,
     content02,
     content03,

@@ -6,13 +6,6 @@ console.log("here is a test");
 
 /* Banner on home page - 00 */
 
-const heading03b = [
-    `"Jesus, through the`,
-    `Imaculate Heart of Mary`,
-    `I offer you all my`,
-    `prayers, works, joys and `,
-    `sufferings of this day..."<span class="footNoteRef">[2]</span>`  
- ]
  const heading03 = [
    `Hail, holy Queen,`,
    `Mother of mercy,`,
@@ -27,7 +20,7 @@ const heading03b = [
    `and after this, our exile,`,
    `show unto us`,
    `the blessed fruit of thy womb,`,
-   `Jesus`
+   `Jesus <span class="footNoteRef">[2]</span>`
    
  ]
 

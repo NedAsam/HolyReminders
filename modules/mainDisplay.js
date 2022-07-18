@@ -1,6 +1,6 @@
 console.log ("Hello World from the main module");
 
-import  {heading00, content00, content01, content02, content03, content04, introduction, introSub,  footNotes} from "../dataModules/data00.js";
+import  {heading00, content00, content01, content02, content03, content04, footNotes} from "../dataModules/data00.js";
 import  {DisplayList, DisplayStr} from "./classDisplay.js";
 
 
