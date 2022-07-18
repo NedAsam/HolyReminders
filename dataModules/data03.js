@@ -39,7 +39,9 @@ console.log("here is a test");
 
  const content03c = [
     '<a target="_blank" href="https://www.arnoldhall.com/">Arnold Hall</a>, 20 Randall St, Pembroke, MA 02359',
-    '<a target="_blank" href="https://www.murrayhillcc.net/">Murray Hill</a>,139 E 34th St, New York, NY 10016' 
+    '<a target="_blank" href="https://www.murrayhillcc.net/">Murray Hill</a>,139 E 34th St, New York, NY 10016',
+    `Toronto`,
+    `Montreal`
  ]
 
 

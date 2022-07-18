@@ -13,9 +13,7 @@ const displayParaList03a = new DisplayList ('cont03a', content03a, 'p');
 displayParaList03a.displayList();
 
 const displayParaList03q = new DisplayList ('quote02', quote02, 'p');
-
 displayParaList03q.displayList();
-console.log(content03b);
 
 const displayParaList03b = new DisplayList ('cont03b', content03b, 'p');
 displayParaList03b.displayList(); 
