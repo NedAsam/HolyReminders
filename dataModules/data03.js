@@ -6,12 +6,29 @@ console.log("here is a test");
 
 /* Banner on home page - 00 */
 
-const heading03 = [
+const heading03b = [
     `"Jesus, through the`,
     `Imaculate Heart of Mary`,
     `I offer you all my`,
     `prayers, works, joys and `,
     `sufferings of this day..."<span class="footNoteRef">[2]</span>`  
+ ]
+ const heading03 = [
+   `Hail, holy Queen,`,
+   `Mother of mercy,`,
+   `our life, our sweetness and our hope.`,
+   `To thee do we cry,`,
+   `poor banished children of Eve.`,
+   `To thee do we send up our sighs,`,
+   `mourning and weeping`,
+   `in this valley of tears.`,
+   `Turn, then, most gracious advocate,`,
+   `thine eyes of mercy toward us,`,
+   `and after this, our exile,`,
+   `show unto us`,
+   `the blessed fruit of thy womb,`,
+   `Jesus`
+   
  ]
 
  const content03a = [
@@ -31,7 +48,7 @@ const heading03 = [
 
  const footNotes = [
     `[1] Velazauez, "The Coronation of the Virgin" -- Public domain, via Wikimedia Commons`,
-    `[2] Midwest Theological Forum, Handbook of Prayers, The Catholic Morning Offering, P42`,
+    `[2] Midwest Theological Forum, Handbook of Prayers, 'Hail Holy Queen', P42`,
     `[3] Escrivá, Josemaría. Christ is Passing By (p. 185). Scepter Publishers. Kindle Edition.`
 ]
 

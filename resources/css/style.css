@@ -2,18 +2,18 @@ body {
     background-color: beige    
    
 }
-h1 {font-size: 1.4rem}
-h2 {font-size: 1.2rem}
-h3 {font-size: 1.0rem;
+h1 {font-size: 1.2rem}
+h2 {font-size: 1.0rem}
+h3 {font-size: 0.8rem;
     margin-top: 10px;}
-p  {font-size: 0.9rem}
-li {font-size: .9rem} 
+p  {font-size: 0.8rem}
+li {font-size: .8rem} 
 
 .content { 
-    max-width: 1000px; 
+    max-width: 800px; 
     margin: auto;
     padding: 10px;
-    font-size: 12px;
+    font-size: 18px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
    
 }
@@ -43,7 +43,7 @@ nav a.active {
 }
 
 .footNote li {
-    font-size: .6rem;
+    font-size: 0.7rem;
     font-family:Arial, Helvetica, sans-serif;
 }
        
@@ -52,6 +52,15 @@ nav a.active {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
 
+}
+
+
+
+
+.imgRef {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .4rem;
+    margin-top: 0px;
 }
 
 .content-list{
@@ -63,11 +72,17 @@ nav a.active {
 .content-subList{
     list-style: none;
     margin-left: 40px;
-    margin-right: 20px;
+    margin-right: 80px;
 } 
 
 .quoteFormat {
     font-style: oblique;
+}
+
+.inLineQuote p{
+    font-style:oblique;
+    margin-left:40px;
+    margin-right:80px;
 }
 
 .content-subList{
@@ -116,6 +131,10 @@ list-style: none;
     
 }
 
+.banner-text {
+    font-weight: bold;
+}
+
 .banner-textList{
     display: flex;
     flex-direction: column;
@@ -124,14 +143,8 @@ list-style: none;
 
 .banner-text p {
     margin-top: 0px;
+    margin-bottom: 10px;
     align-self: center;
-}
-
-
-.imgRef {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: .3rem;
-    margin-top: 0px;
 }
 
 .banner h2 {
