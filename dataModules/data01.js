@@ -6,9 +6,11 @@ console.log("here is a test");
 
 /* Banner on home page - 00 */
 const heading01 = [
-    `AND HE SAID`,
+    `[JESUS] SAID`,
     `TO HIM,`,
-    `"FOLLOW ME" <span class="footNoteRef">[2]</soan>`
+    `"FOLLOW ME."`,
+    `AND HE GOT UP`,
+    `AND FOLLOWED HIM. <span class="footNoteRef">[2]</span>`
  ]
 
 

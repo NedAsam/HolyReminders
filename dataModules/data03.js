@@ -10,17 +10,17 @@ console.log("here is a test");
    `Hail, holy Queen,`,
    `Mother of mercy,`,
    `our life, our sweetness and our hope.`,
-   `To thee do we cry,`,
+   `To you do we cry,`,
    `poor banished children of Eve.`,
-   `To thee do we send up our sighs,`,
+   `To you do we send up our sighs,`,
    `mourning and weeping`,
    `in this valley of tears.`,
    `Turn, then, most gracious advocate,`,
-   `thine eyes of mercy toward us,`,
-   `and after this, our exile,`,
+   `your eyes of mercy toward us,`,
+   `and after this exile,`,
    `show unto us`,
-   `the blessed fruit of thy womb,`,
-   `Jesus <span class="footNoteRef">[2]</span>`
+   `the blessed fruit of your womb,`,
+   `Jesus. <span class="footNoteRef">[2]</span>`
    
  ]
 
