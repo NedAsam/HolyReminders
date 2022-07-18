@@ -41,7 +41,7 @@ console.log("here is a test");
 
  const footNotes = [
     `[1] Velazauez, "The Coronation of the Virgin" -- Public domain, via Wikimedia Commons`,
-    `[2] Midwest Theological Forum, Handbook of Prayers, 'Hail Holy Queen', P42`,
+    `[2] Midwest Theological Forum, Handbook of Prayers, 'Hail Holy Queen', P427`,
     `[3] Escrivá, Josemaría. Christ is Passing By (p. 185). Scepter Publishers. Kindle Edition.`
 ]
 
