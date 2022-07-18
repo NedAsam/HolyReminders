@@ -9,7 +9,7 @@ const content00 = `"You and I belong to Christ’s family, for 'he himself has c
 
 const content01 = [
     `Welcome and thank you for your interest in <a target="_blank" href="https://OpusDei.org">Opus Dei</a> in Western NY.`,
-    `This joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In this life, we all have our crosses -- anxieties, fears, illnesses, disappointments, regrets, et. al.  Yet, in our hearts, at the end of our journey, we pray that we are able to echo St. Paul in declaring ...'`,
+    `This joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In this life, we all have our crosses -- anxieties, fears, illnesses, disappointments, regrets, et. al.  Yet, in our hearts, at the end of our journey, we pray that we will be able to echo St. Paul in declaring ...'`,
 ]
 
 const content02 = [
@@ -29,9 +29,9 @@ const introSub = [
     ` - annual retreats, conferences, and other <a href="./pages/events.html">events</a>.`
 ]
 const content04 = [
-    ` - small group gatherings called "<a href="./pages/circles.html">circles</a>" or classes.`,
-    ` - <a href="./pages/evenings.html">evenings</a> of recollection comprising adoration, confession, meditations, and teachings.`,
-    ` - annual retreats, conferences, and other <a href="./pages/events.html">events</a>.`
+    `small group gatherings called "<a href="./pages/circles.html">circles</a>" or classes.`,
+    `<a href="./pages/evenings.html">evenings</a> of recollection comprising adoration, confession, meditations, and teachings.`,
+    `annual retreats, conferences, and other <a href="./pages/events.html">events</a>.`
 ]
 
 

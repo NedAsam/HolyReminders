@@ -26,7 +26,7 @@ displayContent02.displayList();
 const displayContent03 = new DisplayList('cont03', content03, "p");
 displayContent03.displayList();
 
-const displayContent04 = new DisplayList('cont04', content04, "p");
+const displayContent04 = new DisplayList('cont04', content04, "li");
 displayContent04.displayList();
 
 

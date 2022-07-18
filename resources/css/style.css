@@ -73,6 +73,13 @@ nav a.active {
     list-style: none;
     margin-left: 40px;
     margin-right: 80px;
+
+} 
+.content-bulletList{
+    list-style:circle;
+    margin-left: 40px;
+    margin-right: 80px;
+
 } 
 
 .quoteFormat {
@@ -85,9 +92,7 @@ nav a.active {
     margin-right:80px;
 }
 
-.content-subList{
-list-style: none;
-}
+
     
 .content-list li{
     margin-bottom: 8px 

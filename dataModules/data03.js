@@ -25,13 +25,19 @@ console.log("here is a test");
  ]
 
  const content03a = [
-    `A large copy of this beautiful picture depicting the "Coronation of the Virgin" (Velazquez) fills the wall behind the main alter in the Oratory at Arnold Hall conference and retreat center.`,
-    `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God. <span class="footNoteRef">[3]"`,
-    'OpusDei Dei retreats are available at many locations, including...'
+    `A large copy of this beautiful picture depicting the "Coronation of the Virgin" (Velazquez) fills the wall behind the main alter in the Oratory at Arnold Hall conference and retreat center.`
+    
+ ]
 
+ const quote02 = [
+   `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God. <span class="footNoteRef">[3]"`
  ]
 
  const content03b = [
+   `OpusDei Dei retreats are available at many locations, including...`
+]
+
+ const content03c = [
     '<a target="_blank" href="https://www.arnoldhall.com/">Arnold Hall</a>, 20 Randall St, Pembroke, MA 02359',
     '<a target="_blank" href="https://www.murrayhillcc.net/">Murray Hill</a>,139 E 34th St, New York, NY 10016' 
  ]
@@ -46,4 +52,4 @@ console.log("here is a test");
 ]
 
 
- export {heading03, content03a, content03b, footNotes}
+ export {heading03, content03a, quote02, content03b,  content03c, footNotes}
