@@ -10,7 +10,7 @@ p  {font-size: 1.0rem}
 li {font-size: .8rem} 
 
 .content { 
-    max-width: 960px; 
+    max-width: 1000px; 
     margin: auto;
     padding: 10px;
     font-size: 12px;
@@ -109,17 +109,17 @@ nav a.active {
 }
 
 
-
+@media only screen and (max-width: 840px){
     .banner {
         display: flex;
-        flex-direction:row;
+        flex-direction:column;
         flex-wrap:wrap;
         justify-content: center;
     
     } 
     
     .banner-img{
-        width:70%;
+        width:100%;
         margin-left: 5px;
         margin-right: 20px;
         margin-top: 5px;
@@ -137,10 +137,10 @@ nav a.active {
         justify-content: center;
         
     }
-    
+}
 
-/*
-@media only screen and (min-width: 801px){
+
+@media only screen and (min-width: 841px){
 
     .banner {
         display: flex;
@@ -166,7 +166,7 @@ nav a.active {
         justify-content: center;
     }  
 }
-*/
+
 
 .banner-img img {
     max-width: 100%
