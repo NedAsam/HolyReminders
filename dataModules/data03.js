@@ -9,7 +9,8 @@ console.log("here is a test");
  const heading03 = [
    `Hail, holy Queen,`,
    `Mother of mercy,`,
-   `our life, our sweetness and our hope.`,
+   `our life,`,
+   `our sweetness and our hope.`,
    `To you do we cry,`,
    `poor banished children of Eve.`,
    `To you do we send up our sighs,`,
