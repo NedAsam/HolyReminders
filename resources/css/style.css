@@ -10,7 +10,7 @@ p  {font-size: 1.0rem}
 li {font-size: .8rem} 
 
 .content { 
-    max-width: 1000px; 
+    max-width: 960px; 
     margin: auto;
     padding: 10px;
     font-size: 12px;
@@ -108,7 +108,7 @@ nav a.active {
     font-size: .2rem;
 }
 
-
+/*
 @media only screen and (max-width: 840px){
     .banner {
         display: flex;
@@ -138,9 +138,9 @@ nav a.active {
         
     }
 }
+*/
 
-
-@media only screen and (min-width: 841px){
+/*@media only screen and (min-width: 841px){*/
 
     .banner {
         display: flex;
@@ -165,7 +165,7 @@ nav a.active {
         margin-right:24px;
         justify-content: center;
     }  
-}
+/* } */
 
 
 .banner-img img {
