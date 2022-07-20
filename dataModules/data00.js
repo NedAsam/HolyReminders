@@ -2,14 +2,16 @@
 
 /* Banner on home page - 00 */
 const heading00 = `"We are all called to be Saints!"`;
-const content00 = `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'" [2]`;
+const content00 = `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"[2]`;
 
 /* Introduction and invitation  */
 
 
 const content01 = [
-    `Welcome and thank you for your interest in <a target="_blank" href="https://OpusDei.org">Opus Dei</a> in Western NY.`,
-    `This joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In this life, we all have our crosses -- anxieties, fears, illnesses, disappointments, regrets, et. al.  Yet, in our hearts, at the end of our journey, we pray that we will be able to echo St. Paul in declaring ...'`,
+    `St. Josemaria Escriva, founder of Opus Dei,  became convinced that God wanted him to help everyone to realize that we are all called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form Opus Dei -- i.e. the Work of God.`,
+    `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the <a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a> . This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`,
+    `At the top of this page, Thomas Cole's joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In this life, we all have our crosses -- anxieties, fears, illnesses, disappointments, regrets, et. al.  Yet, in our hearts, at the end of our journey, we pray that we will be able to echo St. Paul in declaring ...'`,
+   
 ]
 
 const content02 = [
@@ -18,8 +20,7 @@ const content02 = [
 
 const content03 = [
     `However, "fighting the good fight" can seem rather daunting to most of us, much of the time. We may read the lives of the saints, yet, every day, we experience the pressures of every day life. We can be tempted to think that being "saintly" is only for those who live in convents or monastaries.`,
-    `St. Josemaria Escriva was clearly aware of this erronous mindset. Early on  in his priestly ministry St. Josemaria Escriva became convinced that God wanted him to help everyone to realize that we are all called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form Opus Dei -- i.e. the Work of God.`,
-    `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the <a target="_blank" href="https://OpusDei.org">Opus Dei</a> website. This beautiful website comprises biographical information and videos of St. Josemaria Escriva, background information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`,
+    `St. Josemaria Escriva was clearly aware of this erronous mindset, and through Opus Dei, provides many resources to help all of us on our journey.`,
     `This introductory website is a resource for keeping keeping track of the local Opus Dei activities (follow navigation links -- embedded below or in the menu at the top of pages).`
 ]
 

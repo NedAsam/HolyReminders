@@ -10,7 +10,7 @@ p  {font-size: 1.0rem}
 li {font-size: .8rem} 
 
 .content { 
-    max-width: 850px; 
+    max-width: 860px; 
     margin: auto;
     padding: 10px;
     font-size: 12px;
@@ -20,7 +20,7 @@ li {font-size: .8rem}
 
 
 nav{
-    height:30px;
+    height:35px;
     background-color:bisque;
 }
 
@@ -56,6 +56,7 @@ nav a.active {
 .logo {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
+    font-size:1.1rem;
 
 }
 
@@ -115,43 +116,41 @@ nav a.active {
         flex-wrap:nowrap;
     
     } 
+    
+
+.banner h2 {
+    margin-bottom: 10px;
+    align-self: center;
+}
+
     .banner-img{
         width:50%;
         margin-left: 5px;
         margin-right: 20px;
         margin-top: 5px;
         margin-bottom: 0px;
-    }    
-
-    .banner-text {
-        width:50%;
-        display: flex;
-        align-items:flex-start;
-        flex-direction: column;
-        margin-top: 0px;
-        margin-right:24px;
-        justify-content: center;
-    }  
+    }     
 
 
 
 .banner-img img {
     max-width: 100%
-    
-
 }
 
 .banner-text {
     font-weight: bold;
-}
+}    
 
-/*
-.banner-textList{
+.banner-text {
+    width:50%;
     display: flex;
+    align-items:flex-start;
     flex-direction: column;
-    justify-content:center;
-}
-*/
+    margin-top: 0px;
+    margin-right:24px;
+    justify-content: center;
+} 
+
 
 .banner-text p {
     margin-top: 0px;
@@ -159,7 +158,9 @@ nav a.active {
     align-self: center;
 }
 
-.banner h2 {
-    margin-bottom: 10px;
-    align-self: center;
+
+.banner-textList{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
 }
