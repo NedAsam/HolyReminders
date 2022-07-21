@@ -24,6 +24,10 @@ console.log("here is a test");
    `Jesus. <span class="footNoteRef">[2]</span>`
    
  ]
+ const heading03a = [
+   `Hail, holy Queen, Mother of mercy, our life, our sweetness and our hope. To you do we cry, poor banished children of Eve. To you do we send up our sighs, mourning and weeping in this valley of tears. Turn, then, most gracious advocate, your eyes of mercy toward us, and after this exile, show unto us the blessed fruit of your womb, Jesus. <span class="footNoteRef">[2]</span>`
+   
+ ]
 
  const content03a = [
     `A large copy of this beautiful picture depicting the "Coronation of the Virgin" (Velazquez) fills the wall behind the main alter in the Oratory at Arnold Hall conference and retreat center.`

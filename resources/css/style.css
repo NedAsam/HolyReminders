@@ -20,6 +20,9 @@ li {font-size: .8rem}
     font-family:Verdana, Geneva, Tahoma, sans-serif;
    
 }
+.title-centered {
+  font-size: 1.2rem;
+}
 
 
 nav{
@@ -143,16 +146,17 @@ nav a.active {
     display: flex;
     flex-direction: column;
     margin-top: 0px;
-    margin-right:24px;
     align-items: center;
     font-weight: bold;
   } 
 
 
   .banner-text p {
-    margin-top: 0px;
+    margin-top: 10px;
     margin-bottom: 0px;
   }
+
+  
 
 
   .banner-textList{
@@ -160,7 +164,7 @@ nav a.active {
     flex-direction: column;
     justify-content:center;
   }
-  }
+}
   
 @media screen and (min-width: 960px) {
     
