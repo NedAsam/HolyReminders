@@ -13,9 +13,10 @@ displayCont00.displayList();
 
 const displayContent01 = new DisplayList('cont01', content01, "p");
 displayContent01.displayList();
-
+/*
 const displayContent02 = new DisplayList('quote02', content02, "p") ;
 displayContent02.displayList();
+
 
 const displayContent03 = new DisplayList('cont03', content03, "p");
 displayContent03.displayList();
@@ -26,5 +27,6 @@ displayContent04.displayList();
 
 const displayNotes = new DisplayList( 'footNote00', footNotes, 'li');
 displayNotes.displayList();
+*/
 
 
