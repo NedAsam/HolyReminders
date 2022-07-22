@@ -6,7 +6,7 @@ import  {DisplayList, DisplayStr} from "./classDisplay.js";
 console.log(heading03);
 
 
-const displayBannerList = new DisplayList ('banner-paraList', heading03, 'p');
+const displayBannerList = new DisplayList ('cont00', heading03, 'p');
 displayBannerList.displayList();
 
 const displayParaList03a = new DisplayList ('cont03a', content03a, 'p');
