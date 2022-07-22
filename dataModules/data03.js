@@ -30,7 +30,7 @@ console.log("here is a test");
  ]
 
  const content03a = [
-    `A large copy of this beautiful picture depicting the "Coronation of the Virgin" (Velazquez) fills the wall behind the main alter in the Oratory at Arnold Hall conference and retreat center.`
+    `A large copy of this beautiful painting depicting the "Coronation of the Virgin" (Velazquez) fills the wall behind the main alter in the Oratory at Arnold Hall conference and retreat center.`
     
  ]
 

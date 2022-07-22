@@ -67,7 +67,7 @@ nav a.active {
 
 .imgRef {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: .8rem;
+    font-size: .5rem;
     margin-top: 0px;
 }
 
@@ -90,10 +90,6 @@ nav a.active {
 
 } 
 
-.quoteFormat {
-    font-style: oblique;
-}
-
 .inLineQuote p{
     font-style:oblique;
     margin-left:40px;
@@ -108,7 +104,7 @@ nav a.active {
 
 .footNoteRef {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: .2rem;
+    font-size: 0.8rem;
 }
     
   
@@ -139,12 +135,13 @@ nav a.active {
 
   .banner-text {
     width:80%;
-    display: flex;
+    display:flex;
     flex-direction: column;
     margin-top: 0px;
     align-items: center;
     font-weight: bold;
   } 
+
 
 
   .banner-text p {
