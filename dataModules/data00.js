@@ -9,7 +9,7 @@ const content00=[
 
 
 const content01 = [
-    `St. Josemaria Escriva, founder of Opus Dei,  became convinced that God wanted him to help everyone to realize that we are all called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form Opus Dei -- i.e. the Work of God.`,
+    `St. Josemaria Escriva, founder of Opus Dei,  became convinced that God wanted him to help everyone to realize that all are called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form Opus Dei -- i.e. the Work of God.`,
     `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the <a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a> . This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`,
     `At the top of this page, Thomas Cole's joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In this life, we all have our crosses -- anxieties, fears, illnesses, disappointments, regrets, et. al.  Yet, in our hearts, at the end of our journey, we pray that we will be able to echo St. Paul in declaring ...'`,
    
