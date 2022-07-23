@@ -2,7 +2,7 @@
 
 const content00=[
     `<span class="title-centered">"We are all called to be Saints!"</span>`,
-    ``,
+    `<br>`,
     `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"[2]`
 ]
 /* Introduction and invitation  */
@@ -40,8 +40,9 @@ const content04 = [
 /* foot notes */
 const footNotes = [
     "[1] Cole, Thomas, 'The Pilgrim of the Cross at the End of his Journey', public domain via Wikipedia commons",
+    "(Inspiration for using this painting came from the cover of Dr. Ralph Martin's book -- Emmaus Road Publishing, 'The Fullfilment of All Desire'.)",
     "[2] Escrivá, Josemaría. 'Friends of God' (Kindle Locations 330-333). Scepter Publishers. Kindle Edition.; and Eph 1:4-5",
-    "[3] 2 Timothy 4:6-8: The Word-on-Fire Bible, vol 2"
+    "[3] The Word-on-Fire Bible, vol 2, 2 Timothy 4:6-8"
    
 ]
 
