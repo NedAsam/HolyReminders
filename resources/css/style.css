@@ -23,9 +23,11 @@ li {font-size: .8rem}
 
 
 nav{
-    height:35px;
+    
+    height: 35px;
     background-color:bisque;
 }
+
 
 nav ul{
     display: flex;
@@ -33,7 +35,7 @@ nav ul{
     list-style: none;
     padding-top: 5px;
     flex-wrap: wrap;
-    justify-content:space-around
+    justify-content:space-between;
     
 
 }
