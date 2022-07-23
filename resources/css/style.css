@@ -24,7 +24,7 @@ li {font-size: .8rem}
 
 nav{
     
-    height: 35px;
+    height: 25px;
     background-color:bisque;
 }
 
@@ -33,22 +33,21 @@ nav ul{
     display: flex;
     flex-direction: row;
     list-style: none;
-    padding-top: 5px;
-    flex-wrap: wrap;
-    justify-content:space-between;
+    flex-wrap: nowrap;
+    justify-content:space-evenly;
     
 
 }
 
 nav ul li{
-    font-size: .8rem;
-    align-self: center;
+    font-size: 1.0rem;
+    align-self: left;
 
 
 }
 
 nav a:hover, 
-nav a.active {
+nav a:active {
     color: blue;
 }
 .footNote{
@@ -89,15 +88,14 @@ nav a.active {
 } 
 .content-bulletList{
     list-style:circle;
-    margin-left: 40px;
-    margin-right: 80px;
 
 } 
 
 .inLineQuote p{
-    font-style:obli%que;
-    margin-left: 5%;
-    margin-right: 10%;
+    font-style:oblique;
+    margin-left: 3%;
+    margin-right: 6%;
+    font-size:small;
 }
 
 
