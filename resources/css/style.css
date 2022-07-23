@@ -1,13 +1,15 @@
 
 body {
     background-color: beige;
+    
+    font-size: 10px;
    
 }
 
 .content { 
     max-width: 960px; 
     margin: auto;
-    padding: 10px;
+    padding: 0%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     
 }
@@ -31,12 +33,15 @@ nav ul{
     list-style: none;
     padding-top: 5px;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content:space-around
+    
 
 }
 
 nav ul li{
-    font-size: 1rem;
+    font-size: .8rem;
+    align-self: center;
+
 
 }
 
@@ -72,8 +77,6 @@ nav a.active {
 
 .content-list{
     list-style: none;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 .content-subList{
@@ -90,9 +93,9 @@ nav a.active {
 } 
 
 .inLineQuote p{
-    font-style:oblique;
-    margin-left:40px;
-    margin-right:80px;
+    font-style:obli%que;
+    margin-left: 5%;
+    margin-right: 10%;
 }
 
 
@@ -107,7 +110,7 @@ nav a.active {
 }
     
   
-@media screen and (min-width: 300px) {
+@media screen and (min-width: 300px) and (max-width: 860px){
        
   .banner {
     display: flex;
@@ -118,7 +121,7 @@ nav a.active {
   } 
 
   .banner-img{
-    width:60%;
+    width:70%;
     margin-left: 5px;
     margin-top: 5px;
     margin-bottom: 0px;
@@ -133,33 +136,28 @@ nav a.active {
      
 
   .banner-text {
-    width:75%;
+    width:85%;
     display:flex;
     flex-direction: column;
-    margin-top: 0px;
     align-items: center;
-    font-weight: bold;
+    margin-top: 20px
   } 
 
 
 
   .banner-text p {
-    margin-top: 10px;
-    margin-bottom: 0px;
+    
+    margin-top:0px;
+    margin-bottom:1%;
+   
+    font-weight: bold;
+
   }
 
-  
 
-/*
-  .banner-textList{
-    display: flex;
-    flex-direction: column;
-    justify-content:center;
-  }
-  */
 }
   
-@media screen and (min-width: 860px) {
+@media screen and (min-width: 861px) {
     
   .banner {
     display: flex;
@@ -170,8 +168,6 @@ nav a.active {
     
   .banner-img{
     width:50%;
-    margin-left: 5px;
-    margin-right: 20px;
     margin-top: 5px;
     margin-bottom: 0px;
   }     
@@ -184,28 +180,25 @@ nav a.active {
 
 
   .banner-text {
-    width:50%;
-    display: flex;
+    width: 50%;
+    display:flex;
+    margin-top:5%;
     flex-direction: column;
-    margin-top: 0px;
-    margin-right:24px;
-    font-weight: bold;
-    align-items:center;
+    padding: 1%;
+    justify-items: center;
+    align-items: center;
+    margin-top: 20px
   } 
 
 
+
   .banner-text p {
-    margin-top: 0px;
-    margin-bottom: 10px;
-    align-self: center;
+    font-weight: bold;
+    margin-top: 0%;
+    margin-bottom:1%
+
   }
 
-/*
-  .banner-textList{
-    display: flex;
-    flex-direction: column;
-    justify-content:center;
-  }
-  */
+
 }
 
