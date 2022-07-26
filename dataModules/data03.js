@@ -21,11 +21,7 @@ console.log("here is a test");
    `and after this exile,`,
    `show unto us`,
    `the blessed fruit of your womb,`,
-   `Jesus. <span class="footNoteRef">[2]</span>`,
-   `<br>`,
-   `------------------------------`,
-   `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God." [3]`
-   
+   `Jesus. <span class="footNoteRef">[2]</span>`
  ]
 
  const heading03a = [
@@ -34,7 +30,9 @@ console.log("here is a test");
  ]
 
  const content03a = [
-    `A large copy of this beautiful painting depicting the "Coronation of the Virgin" (Velazquez) fills the wall behind the main alter in the Oratory at Arnold Hall conference and retreat center.`
+  ,
+   `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God." [3]`,  
+  `A large copy of this beautiful painting depicting the "Coronation of the Virgin" (Velazquez) fills the wall behind the main alter in the Oratory at Arnold Hall conference and retreat center.`
     
  ]
 
