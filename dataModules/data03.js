@@ -25,20 +25,22 @@ console.log("here is a test");
  ]
 
  const heading03a = [
-   `Hail, holy Queen, Mother of mercy, our life, our sweetness and our hope. To you do we cry, poor banished children of Eve. To you do we send up our sighs, mourning and weeping in this valley of tears. Turn, then, most gracious advocate, your eyes of mercy toward us, and after this exile, show unto us the blessed fruit of your womb, Jesus. <span class="footNoteRef">[2]</span>`
-   
+  `Hail, holy Queen,`,
+  `Mother of mercy,`,
+  `our life,`,
+  `our sweetness and our hope.<span class="footNoteRef">[2]</span>`
  ]
+ 
+ const quote03 = [
+  `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God. <span class="footNoteRef">[3]"`
+]
 
  const content03a = [
-  ,
-   `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God." [3]`,  
   `A large copy of this beautiful painting depicting the "Coronation of the Virgin" (Velazquez) fills the wall behind the main alter in the Oratory at Arnold Hall conference and retreat center.`
     
  ]
 
- const quote02 = [
-   `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God. <span class="footNoteRef">[3]"`
- ]
+ 
 
  const content03b = [
    `OpusDei Dei retreats are available at many locations, including...`
@@ -60,4 +62,4 @@ console.log("here is a test");
 ]
 
 
- export {heading03, content03a, quote02, content03b,  content03c, footNotes}
+ export {heading03, content03a, quote03, content03b,  content03c, footNotes}
