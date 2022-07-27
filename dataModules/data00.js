@@ -10,7 +10,7 @@ const content00=[
 
 const content01 = [
     `St. Josemaria Escriva, founder of Opus Dei,  became convinced that God wanted him to help everyone to realize that all are called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form Opus Dei -- i.e. the Work of God.`,
-    `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the <a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a> . This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`
+    `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the <a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a>. This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`
 ]
 
 const content02= [
