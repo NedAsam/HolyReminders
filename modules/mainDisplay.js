@@ -1,6 +1,6 @@
 console.log ("Hello World from the main module");
 
-import  {content00, content01, content02,content02q, content03, content04, footNotes} from "../dataModules/data00.js";
+import  {content00, content00a,  content01, content02,content02q, content03, content04, footNotes} from "../dataModules/data00.js";
 import  {DisplayList, DisplayStr} from "./classDisplay.js";
 
 
@@ -10,6 +10,9 @@ displayHead00.displayString(); */
 
 const displayCont00 = new DisplayList ('cont00', content00, "p");
 displayCont00.displayList();
+
+const displayCont00a = new DisplayList ('cont00a', content00a, "p");
+displayCont00a.displayList();
 
 const displayContent01 = new DisplayList('cont01', content01, "p", true);
 displayContent01.displayList();

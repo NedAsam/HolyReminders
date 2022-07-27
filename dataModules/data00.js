@@ -5,6 +5,11 @@ const content00=[
     `<br>`,
     `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"[2]`
 ]
+const content00a=[
+    `<span class="title-centered">"We are all called to be Saints!"</span>`,
+    `<br>`,
+    `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"[2]`
+]
 /* Introduction and invitation  */
 
 
@@ -50,6 +55,7 @@ const footNotes = [
 
 export { 
     content00, 
+    content00a,
     content01,
     content02,
     content02q,
