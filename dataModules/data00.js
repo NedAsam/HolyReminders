@@ -5,13 +5,9 @@ const content00=[
     `<br>`,
     `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"[2]`
 ]
-const content00a=[
-    `<span class="title-centered">"We are all called to be Saints!"</span>`,
-    `<br>`,
-    `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"[2]`
-]
-/* Introduction and invitation  */
+const content00a = content00;
 
+/* Introduction and invitation  */
 
 const content01 = [
     `St. Josemaria Escriva, founder of Opus Dei,  became convinced that God wanted him to help everyone to realize that all are called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form Opus Dei -- i.e. the Work of God.`,
