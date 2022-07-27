@@ -9,16 +9,19 @@ console.log(heading00);
 const displayBannerList = new DisplayList ('cont00', heading00, 'p');
 displayBannerList.displayList();
 
-
-const displayParaList03a = new DisplayList ('cont02', content02, 'p', 1);
-displayParaList03a.displayList();
-
-const displayParaList03q = new DisplayList ('quote01', quote01, 'p');
-displayParaList03q.displayList();
+const displayBannerLista = new DisplayList ('cont00a', heading00a, 'p');
+displayBannerLista.displayList();
 
 
-const displayParaList03b = new DisplayList ('cont03', content03, 'p');
-displayParaList03b.displayList(); 
+const displayParaList02 = new DisplayList ('cont02', content02, 'p', 1);
+displayParaList02.displayList();
+
+const displayParaList01 = new DisplayList ('quote01', quote01, 'p');
+displayParaList01.displayList();
+
+
+const displayParaList03 = new DisplayList ('cont03', content03, 'p');
+displayParaList03.displayList(); 
 
 const displayRetreatList = new DisplayList ('cont04', content04, 'li');
 displayRetreatList.displayList();
