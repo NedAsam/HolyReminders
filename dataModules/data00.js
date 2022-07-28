@@ -3,19 +3,19 @@
 const content00=[
     `<span class="title-centered">"We are all called to be Saints!"</span>`,
     `<br>`,
-    `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"[2]`
+    `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"<br><span class="imgRef"> ... From "friends of God", St. Josemaria Escriva [2]</span>`
 ]
 const content00a = content00;
 
 /* Introduction and invitation  */
 
 const content01 = [
-    `St. Josemaria Escriva, founder of Opus Dei,  became convinced that God wanted him to help everyone to realize that all are called by God to live saintly lives amidst our everyday activities. This led St. Josemaria Escriva to form Opus Dei -- i.e. the Work of God.`,
-    `To get to know St. Josmaria Escriva and to learn about Opus Dei, begin  by frequenting the <a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a>. This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`
+    `<b>Opus Dei -- i.e. The Work of God:</b>`,  
+    `<a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a> --  This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`
 ]
 
 const content02= [
-    `Thomas Cole's joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In this life, we all have our crosses -- anxieties, fears, illnesses, disappointments, regrets, et. al.  Yet, in our hearts, at the end of our journey, we pray that we will be able to echo St. Paul in declaring ...'`,
+    `Thomas Cole's joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In our hearts, at the end of our journey, we pray that we will be able to echo St. Paul in declaring ...'`,
 ]
 
 const content02q = [
@@ -23,20 +23,20 @@ const content02q = [
 ]
 
 const content03 = [
-    `However, "fighting the good fight" can seem rather daunting to most of us, much of the time. We may read the lives of the saints, yet, every day, we experience the pressures of every day life. We can be tempted to think that being "saintly" is only for those who live in convents or monastaries.`,
-    `St. Josemaria Escriva was clearly aware of this erronous mindset, and through Opus Dei, provides many resources to help all of us on our journey.`,
-    `This introductory website is a resource for keeping keeping track of the local Opus Dei activities (follow navigation links -- embedded below or in the menu at the top of pages).`
+    `<b>Help for the Journey:</b> <span class="imgRef">(follow links for details)</span>`
 ]
 
 const introSub = [
     ` - small group gatherings called "<a href="./pages/circles.html">circles</a>" or classes.`,
     ` - <a href="./pages/evenings.html">evenings</a> of recollection comprising adoration, confession, meditations, and teachings.`,
-    ` - annual retreats, conferences, and other <a href="./pages/events.html">events</a>.`
+    ` - annual retreats, conferences, and other <a href="./pages/events.html">events</a>.`,
+    `<br>`
 ]
 const content04 = [
-    `small group gatherings called "<a href="./pages/circles.html">circles</a>" or classes.`,
-    `<a href="./pages/evenings.html">evenings</a> of recollection comprising adoration, confession, meditations, and teachings.`,
-    `annual retreats, conferences, and other <a href="./pages/events.html">events</a>.`
+    `<a href="./pages/circles.html"><b>circles</b></a> -- small group gatherings called "" or classes.`,
+    `<a href="./pages/evenings.html"><b>evenings of recollection</b></a> comprising adoration, confession, meditations, and teachings.`,
+    `<a href="./pages/events.html"><b>events</b></a> -- annual retreats, conferences, et. al...`,
+    
 ]
 
 
