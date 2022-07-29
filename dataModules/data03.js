@@ -32,7 +32,7 @@ console.log("here is a test");
  ]
  
  const quote01 = [
-  `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God. <span class="footNoteRef">[3]"`
+  `"Mary is welcomed to Heaven: the Daughter of God the Father, Mother of God the Son, Spouse of God the Holy Spirit. Greater than she, no one but God. <span class="footNoteRef">[3]"<br><span class="imgRef"> From "friends of God", St. Josemaria Escriva [3]</span>`
 ]
 
  const content02 = [
