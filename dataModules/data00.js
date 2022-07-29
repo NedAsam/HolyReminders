@@ -2,8 +2,7 @@
 
 const content00=[
     `<span class="title-centered">"We are all called to be Saints!"</span>`,
-    `<br>`,
-    `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"<br><span class="imgRef"> ... From "friends of God", St. Josemaria Escriva [2]</span>`
+        `"You and I belong to Christ’s family, for 'he himself has chosen us before the foundation of the world, to be saints, to be blameless in his sight, for love of him, having predestined us to be his adopted children through Jesus Christ, according to the purpose of his will.'"<br><span class="imgRef"> ... From "friends of God", St. Josemaria Escriva [2]</span>`
 ]
 const content00a = content00;
 
