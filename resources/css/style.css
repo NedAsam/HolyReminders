@@ -32,7 +32,7 @@ nav ul{
     list-style: none;
     flex-wrap: nowrap;
     
-    justify-content:space-between;
+    justify-content:space-around;
     
   }
 
@@ -134,7 +134,7 @@ nav a:active {
 
 .eventDateFormat{
   margin-top:1%;
-  width:98%;
+  width:95%;
   display: flex;
   list-style:none;
   flex-flow:wrap;
