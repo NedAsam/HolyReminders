@@ -9,9 +9,9 @@ const heading00 = [
     `<br>`,
     `<br>`,
     `<br>`,
-    `THIS IS MY SON,`,
+    `"THIS IS MY SON,`,
     `MY CHOSEN;`,
-    `LISTEN TO HIM`,
+    `LISTEN TO HIM"`,
     `<span class="imgRef">Luke 9:35 [2]`, 
     `<br>`,
     `<br>`,
@@ -19,15 +19,15 @@ const heading00 = [
     `<br>`, 
     `<br>`, 
     `<br>`,
-    `...Jesus rebuked the unclean spirit,`,
+    `"...Jesus rebuked the unclean spirit,`,
     `healed the boy, and`,
-    `and gave him back to his father.`,
+    `and gave him back to his father."`,
     `<span class="imgRef">Luke 9:42 [3]`
  ]
 
  const heading00a = [
-    `THIS IS MY SON,`,
-    `MY CHOSEN;`,
+    `"THIS IS MY SON,`,
+    `MY CHOSEN;"`,
     `LISTEN TO HIM <span class="footNoteRef">[2]</span>`  
  ]
 
