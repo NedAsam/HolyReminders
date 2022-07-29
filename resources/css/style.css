@@ -134,12 +134,12 @@ nav a:active {
 
 .eventDateFormat{
   margin-top:1%;
-  width:95%;
+  width:98%;
   display: flex;
   list-style:none;
   flex-flow:wrap;
   flex-direction:row;
-  justify-content:space-around
+  justify-content:space-around;
 }
 .eventDateFormat li{
   font-size: 0.7rem;
