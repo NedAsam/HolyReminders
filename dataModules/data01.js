@@ -8,12 +8,12 @@ console.log("here is a test");
 const heading00 = [
     `<br>`,
     `<br>`,
-    `<br>`,
-    `[JESUS] SAID`,
+    `"[JESUS] SAID`,
     `TO HIM,`,
-    `"FOLLOW ME."`,
+    `'FOLLOW ME.'`,
     `...AND HE GOT UP`,
-    `AND FOLLOWED HIM. <span class="footNoteRef">[2]</span>`
+    `AND FOLLOWED HIM."`,
+     `<span class="imgRef">Mathew 9:1 [2]</span>`
  ]
 
  const heading00a =  [
@@ -22,7 +22,8 @@ const heading00 = [
     `TO HIM,`,
     `"FOLLOW ME."`,
     `...AND HE GOT UP`,
-    `AND FOLLOWED HIM. <span class="footNoteRef">[2]</span>`
+    `AND FOLLOWED HIM. `,
+    `<span class="imgRef">Mathew 9:1 [2]</span>`
  ]
 
  const content01 = [

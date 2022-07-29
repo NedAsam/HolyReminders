@@ -17,10 +17,6 @@ body {
 p  {font-size: 1.0rem}
 li {font-size: .8rem} 
 
-.title-centered {
-  font-size: 1.3rem;
-  font-style: oblique;
-}
 
 
 nav{
@@ -50,6 +46,12 @@ nav a:hover,
 nav a:active {
     color: blue;
 }
+
+.title-centered {
+  font-size: 1.3rem;
+  font-style: oblique;
+}
+
 .footNote{
     list-style: none;
 }
