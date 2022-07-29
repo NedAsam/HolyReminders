@@ -95,7 +95,7 @@ nav a:active {
     font-style:oblique;
     margin-left: 3%;
     margin-right: 6%;
-    font-size:small;
+    font: size 0.9rem;
 }
 
 

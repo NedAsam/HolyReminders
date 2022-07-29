@@ -5,16 +5,11 @@
 console.log("here is a test");
 
 /* Banner on home page - 00 */
-const heading02 = [
+const heading00 = [
     `THIS IS MY SON,`,
     `MY CHOSEN;`,
     `LISTEN TO HIM <span class="footNoteRef">[2]</span>`  
  ]
-
-
- 
-
-
 
 /* foot notes */
 const footNotes = [

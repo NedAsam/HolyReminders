@@ -26,14 +26,9 @@ const content03 = [
     `<b>Help for the Journey:</b> <span class="imgRef">(follow links for details)</span>`
 ]
 
-const introSub = [
-    ` - small group gatherings called "<a href="./pages/circles.html">circles</a>" or classes.`,
-    ` - <a href="./pages/evenings.html">evenings</a> of recollection comprising adoration, confession, meditations, and teachings.`,
-    ` - annual retreats, conferences, and other <a href="./pages/events.html">events</a>.`,
-    `<br>`
-]
+
 const content04 = [
-    `<a href="./pages/circles.html"><b>circles</b></a> -- small group gatherings called "" or classes.`,
+    `<a href="./pages/circles.html"><b>circles</b></a> -- small group gatherings for teachings, prayer and fellowship.`,
     `<a href="./pages/evenings.html"><b>evenings of recollection</b></a> comprising adoration, confession, meditations, and teachings.`,
     `<a href="./pages/events.html"><b>events</b></a> -- annual retreats, conferences, et. al...`,
     

@@ -8,7 +8,7 @@ console.log(heading02)
 
 
 
-const displayBannerList = new DisplayList ('banner-paraList', heading02, 'h2');
+const displayBannerList = new DisplayList ('banner-paraList', heading00, 'h2');
 displayBannerList.displayList();
 
 /*
