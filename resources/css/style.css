@@ -15,7 +15,7 @@ body {
 }
 
 p  {font-size: 1.0rem}
-li {font-size: .8rem} 
+li {font-size: .9rem} 
 
 
 
@@ -32,12 +32,13 @@ nav ul{
     list-style: none;
     flex-wrap: nowrap;
     
-    justify-content:space-around;
+    justify-content:space-between;
     
   }
 
 nav ul li{
-    font-size: 1.0rem;
+    font-size: 0.9rem;
+    margin-top:5px
 
 
 }
@@ -133,7 +134,7 @@ nav a:active {
 
 .eventDateFormat{
   margin-top:1%;
-  width:80%;
+  width:95%;
   display: flex;
   list-style:none;
   flex-flow:wrap;
@@ -141,7 +142,7 @@ nav a:active {
   justify-content:space-around
 }
 .eventDateFormat li{
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   font-style:oblique;
   margin-top: 0rem;
   margin-bottom:  0rem;
@@ -180,7 +181,7 @@ nav a:active {
      
 
   .banner-text {
-    width:85%;
+    width:95%;
     display:none;
     flex-direction: column;
     align-items: center;
@@ -189,7 +190,7 @@ nav a:active {
   }
   
   .banner-text-a {
-    width:85%;
+    width:95%;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -208,7 +209,7 @@ nav a:active {
 
   }
   .banner-text-a p {
-    
+    font-size: 1.0rem;
     margin-top:0px;
     margin-bottom:1%;
    
