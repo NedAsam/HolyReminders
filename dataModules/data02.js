@@ -27,8 +27,9 @@ const heading00 = [
 
  const heading00a = [
     `"THIS IS MY SON,`,
-    `MY CHOSEN;"`,
-    `LISTEN TO HIM <span class="footNoteRef">[2]</span>`  
+    `MY CHOSEN;`,
+    `LISTEN TO HIM"`,
+    `<span class="imgRef">Luke 9:35 [2]`  
  ]
 
  const content02t = [
