@@ -18,18 +18,18 @@ const heading00 = [
 
  const heading00a =  [
 
-    `[JESUS] SAID`,
+    `"[JESUS] SAID`,
     `TO HIM,`,
-    `"FOLLOW ME."`,
+    `'FOLLOW ME.'`,
     `...AND HE GOT UP`,
-    `AND FOLLOWED HIM. `,
+    `AND FOLLOWED HIM."`,
     `<span class="imgRef">Mathew 9:1 [2]</span>`
  ]
 
  const content01 = [
-    `In response to Jesus' call, 'Follow Me', Caravaggio depicts Mathew in a momentary state of indecision. His left hand is pointing back to himself as if to say "you mean me?", while his right hand remains with the money on the table. Then, Mathew decides -- "he got up and followed Him".`,
-    `Jesus is calling each of us to follow Him. Like Mathew we each have our internal struggles. While our hearts may be wanting to follow Him, our day to day decisions and actions are more like Mathew's right hand -- back on the money.`,
-    `To help us to keep our focus, Opus Dei monthly circles (or classes)  provide attendees an opportunity to meet with other men for a time of prayer, instruction and fellowship. Within the Rocuester, NY area, the the following locations and dates are planned. Changes will be posted here as required.`
+    `In response to Jesus' call, "Follow Me", Caravaggio depicts Mathew in a momentary state of indecision. His left hand is pointing back to himself as if to say "you mean me?", while his right hand remains with the money on the table. Then, Mathew decides -- "he got up and followed Him".`,
+    `Jesus is calling each of us to follow Him. Like Mathew we each have our internal struggles. While our hearts may be wanting to follow Him, our day to day decisions and actions are more like Mathew's right hand -- back on the money. To keep our focus, we need support from other Christians.`,
+    `Opus Dei monthly circles (or classes) provide an opportunity to meet with other men for a time of prayer, instruction and fellowship.`
  ]
 
  const content02t = [
@@ -44,6 +44,7 @@ const heading00 = [
     `<br>`,
     ` <b>Scheduled Dates:</b>`
  ]
+ 
 const content02d1 = [
      `8/4/2022`, `9/1/2022`, `10/6/2022`, `11/3/2022`
 ]

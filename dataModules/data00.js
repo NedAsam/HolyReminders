@@ -10,7 +10,7 @@ const content00a = content00;
 
 const content01 = [
     `<b>Opus Dei -- i.e. The Work of God:</b>`,  
-    `<a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a> --  This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses form Opus Dei members and supporters.`
+    `<a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a> --  This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses from Opus Dei members and supporters.`
 ]
 
 const content02= [
@@ -21,17 +21,21 @@ const content02q = [
     `"I have fought the good fight, I have finished the race, I have kept the faith. From now on there is reserved for me the crown of righteousness, which the Lord, the righteous judge, will give me on that Day, and not only to me but also to all who have loved his appearing." <span class="footNoteRef">[3]</span>`
 ]
 
+
 const content03 = [
     `<b>Help for the Journey:</b> <span class="imgRef">(follow links for details)</span>`
 ]
 
-
 const content04 = [
     `<a href="./pages/circles.html"><b>circles</b></a> -- small group gatherings for teachings, prayer and fellowship.`,
-    `<a href="./pages/evenings.html"><b>evenings of recollection</b></a> comprising adoration, confession, meditations, and teachings.`,
+    `<a href="./pages/evenings.html"><b>evenings of recollection</b></a> -- comprising adoration, confession, meditations, and teachings.`,
     `<a href="./pages/events.html"><b>events</b></a> -- annual retreats, conferences, et. al...`,
     
 ]
+
+
+
+
 
 
 /* foot notes */
