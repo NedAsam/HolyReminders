@@ -4,6 +4,8 @@
 
 console.log("here is a test");
 
+import {content02d1, content02d2, content03d1, content03d2} from "./dateData01.js";
+
 /* Banner on home page - 00 */
 const heading00 = [
     `<br>`,
@@ -45,12 +47,7 @@ const heading00 = [
     ` <b>Scheduled Dates:</b>`
  ]
  
-const content02d1 = [
-     `8/4/2022`, `9/1/2022`, `10/6/2022`, `11/3/2022`
-]
-const content02d2 = [
-     `12/1/2022`, `1/5/2023`, `2/2/2023`, `3/2/2023`
-]
+
 const content03t = [
     `Evening Circle -- 7:30 pm`
  ]
@@ -61,14 +58,6 @@ const content03i = [
     `<br>`,
     ` <b>Scheduled Dates:</b>`
  ]
-const content03d1 = [
-     `8/5/2022`, `9/2/2022`, `10/7/2022`, `11/4/2022`
-]
-const content03d2 = [
-     `12/2/2022`, `1/6/2023`, `2/3/2023`, `3/3/2023`
-]
-
-
 
 /* foot notes */
 const footNotes = [

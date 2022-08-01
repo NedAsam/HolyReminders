@@ -2,6 +2,8 @@
 
 /* import {locationArray} from "./addrData"; */
 
+import {content02d1, content02d2, content03d1} from "./dataData02.js";
+
 console.log("here is a test");
 
 /* Banner on home page - 00 */
@@ -33,7 +35,7 @@ const heading00 = [
  ]
 
  const content02t = [
-    `Syracuse, NY -- Evening of recollection -- 6:45 pm`,
+    `Syracuse: Evening of recollection - 6:45 pm`,
     
  ]
  const content02i = [
@@ -44,14 +46,14 @@ const heading00 = [
     `<br>`,
     ` <b>Scheduled Dates:</b>`
  ]
-const content02d1 = [
+/*const content02d1 = [
      `8/19/2022`, `9/16/2022`, `11/18/2022`
 ]
 const content02d2 = [
      `12/16/2022`, `2/17/2023`, `3/17/2023`
-]
+] */
 const content03t = [
-    `Rochester, NY -- Evening of recollection -- 6:45 pm`,
+    `Rochester: Evening of recollection - 6:45 pm`,
  ]
 const content03i = [
     `(Third Friday of selected months.)`,
@@ -61,9 +63,11 @@ const content03i = [
     `<br>`,
     ` <b>Scheduled Dates:</b>`
  ]
+ /*
 const content03d1 = [
      `10/21/2022`, `1/20/2023`, `4/21/2023`, `7/21/2023`
 ]
+*/
 /* foot notes */
 const footNotes = [
     `[1] Raphael, "The Transfiguration" -- Public domain, via Wikimedia Commons`,
