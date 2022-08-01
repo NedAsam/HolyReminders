@@ -52,7 +52,7 @@ const content03t = [
     `Evening Circle -- 7:30 pm`
  ]
 const content03i = [
-    `(First Friday of the month)`,
+    `(First Fridays of the month)`,
     `<br>`,
     `David Principe Residence -- 15 Indian Spring Lane, Rochester, NY 14618`,
     `<br>`,
