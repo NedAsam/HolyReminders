@@ -8,9 +8,7 @@ class DisplayList{
     }
 
     displayList(){
-        console.log(this._target);
-        console.log(this._content);
-        console.log(this._ysnHr);
+       
         const nodeEl = this._target;
         const nodeType= this._nodeType;
         const doHr = this._ysnHr;
