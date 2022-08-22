@@ -54,7 +54,7 @@ const content03t = [
 const content03i = [
     `(First Fridays of the month)`,
     `<br>`,
-    `David Principe Residence -- 15 Indian Spring Lane, Rochester, NY 14618`,
+    `<a href="mailto:daviddprincipe@gmail.com"> email David for location details</a>`,
     `<br>`,
     ` <b>Scheduled Dates:</b>`
  ]

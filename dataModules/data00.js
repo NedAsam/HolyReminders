@@ -10,11 +10,13 @@ const content00a = content00;
 
 const content01 = [
     `<b>Opus Dei -- i.e. The Work of God:</b>`,  
-    `<a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a> --  This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses from Opus Dei members and supporters.`
+    `<a target="_blank" href="https://OpusDei.org"><b>Opus Dei website</b></a> --  This beautiful website comprises biographical information and videos of St. Josemaria Escriva, information about Opus Dei, continuously updated teachings, and many personal witnesses from Opus Dei members and supporters.`,
+    `<em><small>Evenings of Recollection and Retreats are conducted by priests of the Prelature of Opus Dei.</small></em>`
 ]
 
 const content02= [
-    `Thomas Cole's joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In our hearts, at the end of our journey, we pray that we will be able to echo St. Paul in declaring ...'`,
+    `Thomas Cole's joyful painting of the "Pilgrim of the Cross at the Journey's End" reminds us that we are all pilgrims on our earthly journey toward eternity. In our hearts, at the end of our journey, we pray that we will be able to echo St. Paul in declaring ...'`
+    
 ]
 
 const content02q = [
