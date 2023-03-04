@@ -9,7 +9,7 @@ const content02d2 = [
 
 /* Dates for Evenings of Recollection in Rochester */
 const content03d1 = [
-    `1/20/2023`, `4/21/2023`, `7/18/2023`, `10/20/2023`
+    `1/20/2023`, `4/21/2023`, `7/21/2023`, `10/20/2023`
 ]
 
 
